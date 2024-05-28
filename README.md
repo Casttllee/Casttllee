@@ -56,5 +56,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Static Malware Analysis Lab Remnux
+- Identify and Remediate Vulnerabilities
+- IDS/ZEEK Network Monitoring
+- Honeypot setup
+- Wazuh to SOAR Implementation
