@@ -56,7 +56,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Static Malware Analysis Lab Remnux
+- Static Malware Analysis (Remnux)
 - Identify and Remediate Vulnerabilities
 - IDS/ZEEK Network Monitoring
 - Honeypot setup
