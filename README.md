@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | File Identification and Analysis       | <a href="https://github.com/Casttllee/Malware-Analysis">Malware Analysis</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Identify and Remediate Vulnerabilities</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Casttllee/Identify-and-Remediate-Vulnerabilities">Identify and Remediate Vulnerabilities</a>|
 | Security Automation with Shuffle SOAR         | IDS/ZEEK Network Monitoring|
 | Incident Response Planning and Execution      | Honeypot setup|
 | Case Management with TheHive                  | Wazuh to SOAR Implementation|
@@ -62,7 +62,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/Casttllee/Malware-Analysis">Malware Analysis</a>
-- Identify and Remediate Vulnerabilities
+- <a href="https://github.com/Casttllee/Identify-and-Remediate-Vulnerabilities">Identify and Remediate Vulnerabilities</a>
 - IDS/ZEEK Network Monitoring
 - Honeypot setup
 - Wazuh to SOAR Implementation
