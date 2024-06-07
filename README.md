@@ -15,9 +15,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| File Identification and Analysis       | <a href="https://github.com/Casttllee/Malware-Analysis">Malware Analysis</a>|
+| File Identification and Analysis              | <a href="https://github.com/Casttllee/Malware-Analysis">Malware Analysis</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Casttllee/Identify-and-Remediate-Vulnerabilities">Identify and Remediate Vulnerabilities</a>|
-| Security Automation with Shuffle SOAR   | <a href="https://github.com/Casttllee/IDS-Snort-Network-Monitoring/tree/main">IDS/Snort Network Monitoring</a>|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/Casttllee/IDS-Snort-Network-Monitoring/tree/main">IDS/Snort Network Monitoring</a>|
 | Incident Response Planning and Execution      | Honeypot setup|
 | Case Management with TheHive                  | Wazuh to SOAR Implementation|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -63,6 +63,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/Casttllee/Malware-Analysis">Malware Analysis</a>
 - <a href="https://github.com/Casttllee/Identify-and-Remediate-Vulnerabilities">Identify and Remediate Vulnerabilities</a>
-- IDS/Snort Network Monitoring
+- <a href="https://github.com/Casttllee/IDS-Snort-Network-Monitoring/tree/main">IDS/Snort Network Monitoring</a>
 - Honeypot setup
 - Wazuh to SOAR Implementation
