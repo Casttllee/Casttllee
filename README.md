@@ -18,7 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | File Identification and Analysis              | <a href="https://github.com/Casttllee/Malware-Analysis">Malware Analysis</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Casttllee/Identify-and-Remediate-Vulnerabilities">Identify and Remediate Vulnerabilities</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/Casttllee/IDS-Snort-Network-Monitoring/tree/main">IDS/Snort Network Monitoring</a>|
-| Incident Response Planning and Execution      | Spiderfoot (OSINT)|
+| Incident Response Planning and Execution      | <a href="https://github.com/Casttllee/Spiderfoot-OSINT-">Spiderfoot (OSINT)</a>|
 | Case Management with TheHive                  | Wazuh to SOAR Implementation|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
