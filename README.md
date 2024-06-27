@@ -24,6 +24,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link
+<div>
+    
+</div>
 
 -REMnux
 -FlareVM
@@ -64,5 +67,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/Casttllee/Malware-Analysis">Malware Analysis</a>
 - <a href="https://github.com/Casttllee/Identify-and-Remediate-Vulnerabilities">Identify and Remediate Vulnerabilities</a>
 - <a href="https://github.com/Casttllee/IDS-Snort-Network-Monitoring/tree/main">IDS/Snort Network Monitoring</a>
-- Spiderfoot (OSINT)
+- <a href="https://github.com/Casttllee/Spiderfoot-OSINT-">Spiderfoot (OSINT)</a>
 - Wazuh to SOAR Implementation
