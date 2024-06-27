@@ -23,16 +23,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link
 <div>
-    
+<img src="https://img.shields.io/badge/-Linux-000080?&style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Metasploitable%202-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-OpenVAS-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-REMnux-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-FlareVM-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
--REMnux
--FlareVM
--Metasplitable2
--OpenVAS
--Linux
+
 
 ### Network
 <div>
