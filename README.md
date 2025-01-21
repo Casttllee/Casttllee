@@ -55,8 +55,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-CompTIA%20A%2B-FF0000?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20A%2B-FF0000?&style=for-the-badge&logoColor=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIASecurity%20A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSC%3A%20Cybersecurity-4D4D4D?&style=for-the-badge&logo=CVCC&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSC%3A%20Cybersecurity%20Fundamentals-4D4D4D?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-007ACC?&style=for-the-badge&logo=Google&logoColor=white" />
